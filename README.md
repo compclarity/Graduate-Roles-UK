@@ -4,11 +4,27 @@ Below is a collection of all tech-related graduate roles in the UK for 2025.
 Instructions on contributing can be found [here](https://github.com/devzenq/Graduate-Roles-UK/blob/main/CONTRIBUTE.md)!
 
 ---
+<div align="center">
+	<p>
+		<a href="https://compclarity.com/tracker">
+			<b>Want to streamline your new grad application process?</b>
+			<br>
+			Track all your job applications in one place (+ see salaries)!
+			<br>
+		</a>
+	</p>
+</div>
+
+---
 
 # List
 
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Marshall Wace | Technology Graduate | London | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/7499680002?gh_src=bb1e940f2us) | 1 August 2024 |
+| Palantir | Software Engineer | London | [Apply](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply) | 1 August 2024 |
+| Five Rings | Software Engineer | London | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4090995008) | 1 August 2024 |
+| TPP | Graduate Software Engineer | Leeds | [Apply](https://tpp-careers.com/roles/graduate-software-developer/) | 1 August 2024 |
 | Wintermute | Graduate DeFi Algorithmic Trader | London | [Apply](https://jobs.lever.co/wintermute-trading/e001ec83-0452-4fdf-a252-e19333af345f) | 24 July 2024 |
 | CCI | Commodities Trading Graduate 2025 | London | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Rotational-Analyst-Graduate-Programme--2025-Start-_R850?locations=f2015cfc02f00191c190c981a701650e) | 24 July 2024 |
 | Coinbase | Emerging Talent Software Engineer | London | [Apply](https://www.coinbase.com/en-gb/careers/positions/5954689) | 24 July 2024 |
