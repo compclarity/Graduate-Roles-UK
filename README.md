@@ -21,6 +21,10 @@ Instructions on contributing can be found [here](https://github.com/devzenq/Grad
 
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Snowflake | Graduate Cloud Support Engineer | London | [Apply](https://careers.snowflake.com/us/en/job/7284116002/Graduate-Cloud-Support-Engineer?utm_source=CompClarity) | 6 August 2024 |
+| Glencore | FO Technology Graduate | London | [Apply](https://job-boards.greenhouse.io/tlgglencoreukltd/jobs/4359295101?utm_source=CompClarity)| 6 August 2024 |
+| BNP Paribas | SWE Graduate | London | [Apply](https://bnpparibas.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-807236/xf-74fcfccade6f/candidate/so/pm/1/pl/1/opp/2151-London-2025-Graduate-Programme-Technology/en-GB?utm_source=CompClarity) | 6 August 2024 |
+| Citadel | SWE Graduate | London | [Apply](https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-europe/?utm_source=CompClarity) | 6 August 2024 |
 | Marshall Wace | Technology Graduate | London | [Apply](https://job-boards.greenhouse.io/mw-tech-grad/jobs/7499680002?gh_src=bb1e940f2us) | 1 August 2024 |
 | Palantir | Software Engineer | London | [Apply](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply) | 1 August 2024 |
 | Five Rings | Software Engineer | London | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4090995008) | 1 August 2024 |
