@@ -21,6 +21,7 @@ Instructions on contributing can be found [here](https://github.com/devzenq/Grad
 
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Canonical | Graduate Software Engineer (Infra) | London | [Apply](https://boards.us.greenhouse.io/canonical/jobs/6143290?utm_source=CompClarity) | 12 August 2024 |
 | Snowflake | Graduate Cloud Support Engineer | London | [Apply](https://careers.snowflake.com/us/en/job/7284116002/Graduate-Cloud-Support-Engineer?utm_source=CompClarity) | 6 August 2024 |
 | Glencore | FO Technology Graduate | London | [Apply](https://job-boards.greenhouse.io/tlgglencoreukltd/jobs/4359295101?utm_source=CompClarity)| 6 August 2024 |
 | BNP Paribas | SWE Graduate | London | [Apply](https://bnpparibas.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-807236/xf-74fcfccade6f/candidate/so/pm/1/pl/1/opp/2151-London-2025-Graduate-Programme-Technology/en-GB?utm_source=CompClarity) | 6 August 2024 |
