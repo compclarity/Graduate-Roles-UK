@@ -21,6 +21,8 @@ Instructions on contributing can be found [here](https://github.com/devzenq/Grad
 
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Rokos Capital | Technology Graduate | London | [Apply](https://trkr.app/vacancy/rcm-technology-graduate-programme-2025?utm_source=CompClarity) | 18 August 2024 |
+| Jane Street | Trading Desk Operations Engineer | London | [Apply](https://www.janestreet.com/join-jane-street/position/7486198002/?utm_source=CompClarity) | 18 Augusut 2024 |
 | Canonical | Graduate Software Engineer (Infra) | London | [Apply](https://boards.us.greenhouse.io/canonical/jobs/6143290?utm_source=CompClarity) | 12 August 2024 |
 | Snowflake | Graduate Cloud Support Engineer | London | [Apply](https://careers.snowflake.com/us/en/job/7284116002/Graduate-Cloud-Support-Engineer?utm_source=CompClarity) | 6 August 2024 |
 | Glencore | FO Technology Graduate | London | [Apply](https://job-boards.greenhouse.io/tlgglencoreukltd/jobs/4359295101?utm_source=CompClarity)| 6 August 2024 |
