@@ -1,7 +1,9 @@
 # Graduate Roles in the UK
 Below is a collection of all tech-related graduate roles in the UK for 2025.
 
-Instructions on contributing can be found [here](https://github.com/devzenq/Graduate-Roles-UK/blob/main/CONTRIBUTE.md)!
+For contributing, click [here](https://github.com/devzenq/Graduate-Roles-UK/blob/main/CONTRIBUTE.md)!
+
+For internships, click [here](https://github.com/devzenq/2025-Internships-UK/tree/main)!
 
 ---
 <div align="center">
