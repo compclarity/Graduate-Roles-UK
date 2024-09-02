@@ -23,10 +23,14 @@ For internships, click [here](https://github.com/devzenq/2025-Internships-UK/tre
 
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| Man Group | AHL IDI Graduate Analyst | London | [Apply](https://mangroupplc.wd3.myworkdayjobs.com/en-US/Man_Group_Careers/job/London/AHL-IDI-Graduate-Analyst_JR005494?utm_source=CompClarity) | 2 September 2024 |
+| MUFG | Technology Analyst - Trading Platforms | London | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/MUFG-2025-UK-Technology-Analyst-Programme--Trading-Platforms_10066940-WD-1?utm_source=CompClarity) | 2 September 2024 |
+| MUFG | Technology Analyst - Technology Innovation Management | London | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/MUFG-2025-UK-Technology-Analyst-Programme--Technology-Innovation-Management_10066939-WD-1?utm_source=CompClarity) | 2 September 2024 |
+| Runna | Grad Software Engineer - Full Stack | London | [Apply](https://apply.workable.com/runna/j/D9B22D6385/?utm_source=CompClarity) | 2 September 2024 |
+| Runna | Grad Software Engineer - ML | London | [Apply](https://apply.workable.com/runna/j/BCBC3C02CE/?utm_source=CompClarity) | 2 September 2024 |
+| Runna | Grad Software Engineer - Modelling | London | [Apply](https://apply.workable.com/runna/j/0A47070EFF/?utm_source=CompClarity) | 2 September 2024 |
 | Rokos Capital | Technology Graduate | London | [Apply](https://trkr.app/vacancy/rcm-technology-graduate-programme-2025?utm_source=CompClarity) | 18 August 2024 |
-| Jane Street | Trading Desk Operations Engineer | London | [Apply](https://www.janestreet.com/join-jane-street/position/7486198002/?utm_source=CompClarity) | 18 Augusut 2024 |
 | Canonical | Graduate Software Engineer (Infra) | London | [Apply](https://boards.us.greenhouse.io/canonical/jobs/6143290?utm_source=CompClarity) | 12 August 2024 |
-| Snowflake | Graduate Cloud Support Engineer | London | [Apply](https://careers.snowflake.com/us/en/job/7284116002/Graduate-Cloud-Support-Engineer?utm_source=CompClarity) | 6 August 2024 |
 | Glencore | FO Technology Graduate | London | [Apply](https://job-boards.greenhouse.io/tlgglencoreukltd/jobs/4359295101?utm_source=CompClarity)| 6 August 2024 |
 | BNP Paribas | SWE Graduate | London | [Apply](https://bnpparibas.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-807236/xf-74fcfccade6f/candidate/so/pm/1/pl/1/opp/2151-London-2025-Graduate-Programme-Technology/en-GB?utm_source=CompClarity) | 6 August 2024 |
 | Citadel | SWE Graduate | London | [Apply](https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-europe/?utm_source=CompClarity) | 6 August 2024 |
@@ -36,7 +40,6 @@ For internships, click [here](https://github.com/devzenq/2025-Internships-UK/tre
 | TPP | Graduate Software Engineer | Leeds | [Apply](https://tpp-careers.com/roles/graduate-software-developer/) | 1 August 2024 |
 | Wintermute | Graduate DeFi Algorithmic Trader | London | [Apply](https://jobs.lever.co/wintermute-trading/e001ec83-0452-4fdf-a252-e19333af345f) | 24 July 2024 |
 | CCI | Commodities Trading Graduate 2025 | London | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Rotational-Analyst-Graduate-Programme--2025-Start-_R850?locations=f2015cfc02f00191c190c981a701650e) | 24 July 2024 |
-| Coinbase | Emerging Talent Software Engineer | London | [Apply](https://www.coinbase.com/en-gb/careers/positions/5954689) | 24 July 2024 |
 | Jane Street | Graduate Trading Desk Operations Engineer | London | [Apply](https://www.janestreet.com/join-jane-street/position/7486198002/) | 24 July 2024 |
 | DRW | Software Developer Graduate 2025 | London | [Apply](https://boards.greenhouse.io/drweng/jobs/6000898) | 24 July 2024 |
 | DRW | Quantitative Trading Analyst Graduate 2025 | London | [Apply](https://boards.greenhouse.io/drweng/jobs/6000807) | 24 July 2024 |
@@ -46,8 +49,6 @@ For internships, click [here](https://github.com/devzenq/2025-Internships-UK/tre
 | G-Research | Quantitative Researcher - Postgraduate | London | [Apply](https://www.gresearch.com/vacancy/R2269-Quantitative-Researcher---Postgraduate/) | 17 July 2024 |
 | Spotify | Junior Backend Engineer | London | [Apply](https://jobs.lever.co/spotify/a3b48cdf-090c-442a-ae71-7e0868d7ad49/apply) | 17 July 2024 |
 | Old Mission | Junior Quant Trader | London | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=6052159003) | 17 July 2024 |
-| Meta | Production Engineer (University Grad) | London, Dublin | [Apply](https://www.metacareers.com/jobs/1855970111582449/) | 17 July 2024 |
-| Meta | Network Production Engineer (University Grad) | London, Dublin | [Apply](https://www.metacareers.com/v2/jobs/901402644628821/) | 17 July 2024 |
 | Point72 | Point72 Academy Investment Analyst 2025 | London | [Apply](https://boards.greenhouse.io/point72/jobs/7434405002?gh_src=10b137522us&jobCode=CPA-0012306&location=London) | 17 July 2024 |
 | Palantir | Product Reliability Engineer, New Grad | London | [Apply](https://jobs.lever.co/palantir/63494bd6-3c41-4449-b01f-0932dc664fc4/apply) | 17 July 2024 |
 | Squarepoint Capital | Graduate Software Developer | London | [Apply](https://www.squarepoint-capital.com/open-opportunities#/job/6040910) | 17 July 2024 |
