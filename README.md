@@ -23,6 +23,9 @@ For internships, click [here](https://github.com/devzenq/2025-Internships-UK/tre
 
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| 
+| Baillie Gifford | SWE | London | [Apply](https://bailliegifford.wd3.myworkdayjobs.com/en-US/BaillieGiffordEarlyCareers/job/Technology-Solutions-Graduate-Programme-2025_R0003867-1?utm_source=CompClarity) | 5 Sep 2024
+| Goldman Sachs | SWE | London | [Apply](https://higher.gs.com/roles/131692?utm_source=CompClarity) | 5 Sep 2024
 | Man Group | AHL IDI Graduate Analyst | London | [Apply](https://mangroupplc.wd3.myworkdayjobs.com/en-US/Man_Group_Careers/job/London/AHL-IDI-Graduate-Analyst_JR005494?utm_source=CompClarity) | 2 September 2024 |
 | MUFG | Technology Analyst - Trading Platforms | London | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/MUFG-2025-UK-Technology-Analyst-Programme--Trading-Platforms_10066940-WD-1?utm_source=CompClarity) | 2 September 2024 |
 | MUFG | Technology Analyst - Technology Innovation Management | London | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/MUFG-2025-UK-Technology-Analyst-Programme--Technology-Innovation-Management_10066939-WD-1?utm_source=CompClarity) | 2 September 2024 |
