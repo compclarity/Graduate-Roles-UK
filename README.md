@@ -1,9 +1,9 @@
 # Graduate Roles in the UK
 Below is a collection of all tech-related graduate roles in the UK for 2025.
 
-For contributing, click [here](https://github.com/devzenq/Graduate-Roles-UK/blob/main/CONTRIBUTE.md)!
+For contributing, click [here](https://github.com/compclarity/Graduate-Roles-UK/blob/main/CONTRIBUTE.md)!
 
-For internships, click [here](https://github.com/devzenq/2025-Internships-UK/tree/main)!
+For internships, click [here](https://github.com/compclarity/2025-Internships-UK/tree/main)!
 
 ---
 <div align="center">
@@ -29,6 +29,8 @@ For internships, click [here](https://github.com/devzenq/2025-Internships-UK/tre
 | Goldman Sachs | Engineering New Analyst | Birmingham | [Apply](https://higher.gs.com/roles/128379?utm_source=CompClarity) | 15 September 2024 |
 | Baillie Gifford | Technology Solutions Graduate | Edinburgh | [Apply](https://bailliegifford.wd3.myworkdayjobs.com/en-US/BaillieGiffordEarlyCareers/job/Technology-Solutions-Graduate-Programme-2025_R0003867-1?utm_source=CompClarity) | 15 September 2024 |
 | Macquarie | Graduate Programme | London | [Apply](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11977&utm_source=CompClarity) | 15 September 2024 |
+| Baillie Gifford | SWE | London | [Apply](https://bailliegifford.wd3.myworkdayjobs.com/en-US/BaillieGiffordEarlyCareers/job/Technology-Solutions-Graduate-Programme-2025_R0003867-1?utm_source=CompClarity) | 5 Sep 2024
+| Goldman Sachs | SWE | London | [Apply](https://higher.gs.com/roles/131692?utm_source=CompClarity) | 5 Sep 2024
 | Man Group | AHL IDI Graduate Analyst | London | [Apply](https://mangroupplc.wd3.myworkdayjobs.com/en-US/Man_Group_Careers/job/London/AHL-IDI-Graduate-Analyst_JR005494?utm_source=CompClarity) | 2 September 2024 |
 | MUFG | Technology Analyst - Trading Platforms | London | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/MUFG-2025-UK-Technology-Analyst-Programme--Trading-Platforms_10066940-WD-1?utm_source=CompClarity) | 2 September 2024 |
 | MUFG | Technology Analyst - Technology Innovation Management | London | [Apply](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/MUFG-2025-UK-Technology-Analyst-Programme--Technology-Innovation-Management_10066939-WD-1?utm_source=CompClarity) | 2 September 2024 |
