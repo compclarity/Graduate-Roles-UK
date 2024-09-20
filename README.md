@@ -23,6 +23,10 @@ For internships, click [here](https://github.com/compclarity/2025-Internships-UK
 
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| TikTok | Grad SWE | London | [Apply](https://careers.tiktok.com/position/7400411130659178761/detail?utm_source=CompClarity) | 20 Sep 2024 |
+| Deutsche Bank | Grad SWE | London | [Apply](https://db.recsolu.com/external/requisitions/jbjXUW18X4IA-WlWOKzyAQ?utm_source=CompClarity) | 20 Sep 2024 |
+| Capital One | Grad SWE | London | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Graduate_R197279-1?utm_source=CompClarity) | 20 Sep 2024 |
+| Cisco | Ensoft Grad | London | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Ensoft-Early-in-Career-Graduate-Software-Engineering-UK/1428766?utm_source=CompClarity) | 20 Sep 2024 |
 | BAE Systems | Graduate Software Developer | Warton | [Apply](https://jobsearch.baesystems.com/job/graduate-software-developer-v02962?utm_source=CompClarity) | 15 September 2024 |
 | Aquatic | Software Engineer Early Career (Python) | London | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002?utm_source=CompClarity) | 15 September 2024 |
 | Goldman Sachs | Engineering New Analyst | London | [Apply](https://higher.gs.com/roles/131692?utm_source=CompClarity) | 15 September 2024 |
