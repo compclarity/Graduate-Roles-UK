@@ -23,6 +23,10 @@ For internships, click [here](https://github.com/compclarity/2025-Internships-UK
 
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| HubSpot | Early Careers SWE | London | [Apply](https://www.hubspot.com/careers/jobs/6123945?utm_source=CompClarity) | 29 Sep 2024 |
+| Coinbase | Emerging Talent SWE | London | [Appy](https://www.coinbase.com/en-gb/careers/positions/5954689?utm_source=CompClarity) | 29 Sep 2024 |
+| Sky | SWE Grad | Osterley | [Apply](https://skyearlycareers.groupgti.com/software-engineering-graduate/766/viewdetails?utm_source=CompClarity) | 29 Sep 2024 |
+| Meta | Grad SWE | London | [Apply](https://www.metacareers.com/jobs/940472851454550/?utm_source=CompClarity) | 29 Sep 2024 |
 | TikTok | Grad SWE | London | [Apply](https://careers.tiktok.com/position/7400411130659178761/detail?utm_source=CompClarity) | 20 Sep 2024 |
 | Deutsche Bank | Grad SWE | London | [Apply](https://db.recsolu.com/external/requisitions/jbjXUW18X4IA-WlWOKzyAQ?utm_source=CompClarity) | 20 Sep 2024 |
 | Capital One | Grad SWE | London | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Graduate_R197279-1?utm_source=CompClarity) | 20 Sep 2024 |
